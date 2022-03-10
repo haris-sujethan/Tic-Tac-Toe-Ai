@@ -9,5 +9,3 @@ The program will ask the user for their name, and a postion to place their lette
 ![](images/Test2.PNG)
 
 keep playing untill you lose or win against the ai, in this case test lost. The user then will be asked if they want to play again or not
-
-You Will Begin by placing the Letter X On a three-by-three grid, You Will Take Turns Marking The Spaces Against an Ai Who Will Play as The Letter O. The player who places three of their marks in a vertical, horizontal, or diagonal row is the winner. However, you will only Lose or Tie against the Ai.
