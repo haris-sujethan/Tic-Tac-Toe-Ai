@@ -1,10 +1,10 @@
 """
-Impossible to Beat Tic Tac Toe Ai
+Tic Tac Toe Ai
 
 You Will Begin by placing the Letter X On a three-by-three grid, 
 You Will Take Turns Marking The Spaces Against an Ai Who Will Place The Letter O,
 The player who places three of their marks in a vertical, horizontal, or diagonal row is the winner,
-However, No Matter How Great you play, you will only Lose or Tie against the Ai. 
+However, No Matter How you play, you will only Lose or Tie against the Ai. 
 
 """
 
